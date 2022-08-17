@@ -1,0 +1,15 @@
+C:\Users\luisd\source\repos\ProyectoPresupuesto\ProyectoPresupuesto\bin\Debug\ProyectoPresupuesto.exe.config
+C:\Users\luisd\source\repos\ProyectoPresupuesto\ProyectoPresupuesto\bin\Debug\ProyectoPresupuesto.exe
+C:\Users\luisd\source\repos\ProyectoPresupuesto\ProyectoPresupuesto\bin\Debug\ProyectoPresupuesto.pdb
+C:\Users\luisd\source\repos\ProyectoPresupuesto\ProyectoPresupuesto\obj\Debug\ProyectoPresupuesto.csproj.AssemblyReference.cache
+C:\Users\luisd\source\repos\ProyectoPresupuesto\ProyectoPresupuesto\obj\Debug\ProyectoPresupuesto.csproj.SuggestedBindingRedirects.cache
+C:\Users\luisd\source\repos\ProyectoPresupuesto\ProyectoPresupuesto\obj\Debug\ProyectoPresupuesto.Properties.Resources.resources
+C:\Users\luisd\source\repos\ProyectoPresupuesto\ProyectoPresupuesto\obj\Debug\ProyectoPresupuesto.csproj.GenerateResource.cache
+C:\Users\luisd\source\repos\ProyectoPresupuesto\ProyectoPresupuesto\obj\Debug\ProyectoPresupuesto.csproj.CoreCompileInputs.cache
+C:\Users\luisd\source\repos\ProyectoPresupuesto\ProyectoPresupuesto\obj\Debug\ProyectoPresupuesto.exe
+C:\Users\luisd\source\repos\ProyectoPresupuesto\ProyectoPresupuesto\obj\Debug\ProyectoPresupuesto.pdb
+C:\Users\luisd\source\repos\ProyectoPresupuesto\ProyectoPresupuesto\obj\Debug\ProyectoPresupuesto.FTipoIngreso.resources
+C:\Users\luisd\source\repos\ProyectoPresupuesto\ProyectoPresupuesto\obj\Debug\ProyectoPresupuesto.FPrincipal.resources
+C:\Users\luisd\source\repos\ProyectoPresupuesto\ProyectoPresupuesto\obj\Debug\ProyectoPresupuesto.FTipoGasto.resources
+C:\Users\luisd\source\repos\ProyectoPresupuesto\ProyectoPresupuesto\obj\Debug\ProyectoPresupuesto.FIngreso.resources
+C:\Users\luisd\source\repos\ProyectoPresupuesto\ProyectoPresupuesto\obj\Debug\ProyectoPresupuesto.FGastos.resources
